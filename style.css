@@ -30,13 +30,15 @@ a {
     display: flex;
     color: white;
     padding: 20px 100px;
-    height: 250px;
+    height: 300px;
     font-family: 'Roboto', sans-serif;
     gap: 30px;
+    /* align-items: center; */
 }
 
 .hero-item {
     flex: 1;
+    height: 200px;
 
 }
 
