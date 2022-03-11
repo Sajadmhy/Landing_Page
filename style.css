@@ -90,7 +90,7 @@ h2 {
     /* width: 150px; */
     border: 5px;
     border-style:solid;
-    border-color: blue;
+    border-color: #3882F6;
     border-radius: 15px;
 }
 
@@ -117,4 +117,39 @@ h2 {
     text-align: right;
     font-weight: 800;
     font-size: 24px;
+}
+
+.cta-box {
+    display: flex;
+    padding: 100px 100px;
+    height: 200px;
+    font-family: 'Roboto';
+}
+
+.cta {
+    display: flex;
+    height: 50px;
+    padding: 70px 100px;
+    background-color: #3882F6;
+    color: white;
+    flex: 1;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 24px;
+}
+
+.cta-item {
+    flex: 1 1 auto;
+    
+}
+
+.cta-button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px 20px;
+    /* font-size: 24px; */
 }
