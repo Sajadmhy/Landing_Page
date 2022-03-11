@@ -151,6 +151,17 @@ h2 {
     border-style: solid;
     border-color: white;
     padding: 5px 20px;
-    /* font-size: 24px; */
+    font-size: 24px;
+}
+
+.footer {
+    color: white;
+    background-color: #1F2937;
+    height: 80px;
+    text-align: center;
+    align-items: center;
+    padding: 20px 40px;
+    font-size: 18px;
+    font-family: 'Roboto';
 }
 
